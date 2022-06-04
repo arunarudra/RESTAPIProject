@@ -1,0 +1,12 @@
+RESTAPI\DELETERequest.class
+RESTAPI\POSTRequestWithJSON.class
+RESTAPI\Testing.class
+RESTAPI\POSTReqWithFile.class
+GitHub\APIoperations.class
+RESTAPI\POSTReqWithMap.class
+RESTAPI\GetRequestWithParams.class
+RESTAPI\POSTRequest.class
+APIchaining\AllMethods.class
+RESTAPI\PUTRequest.class
+APIchaining\EndToEndTest.class
+RESTAPI\GETRequest.class
